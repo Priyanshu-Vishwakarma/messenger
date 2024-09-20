@@ -6,11 +6,10 @@
 ![alt text](image.png)
 Home Page
 
-![image](https://github.com/user-attachments/assets/8107750d-bfa2-42aa-bdc9-ee3b037eed4a)
-Sign Up page
+ ![image](https://github.com/user-attachments/assets/35a5751c-7a94-491b-a53a-6e537adb5d2d)
+Register page
 
  ![image](https://github.com/user-attachments/assets/31e8a58a-feef-4848-96d3-43a8c649f585)
-
 Sign In Page
 
 ![image](https://github.com/user-attachments/assets/777ec5f2-a290-4755-8a42-458ef7a2c090)
