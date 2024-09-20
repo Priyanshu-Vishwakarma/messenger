@@ -15,6 +15,10 @@ Sign In Page
 ![image](https://github.com/user-attachments/assets/777ec5f2-a290-4755-8a42-458ef7a2c090)
 Chats Page
 
+The schema design of my database is 
+![image](https://github.com/user-attachments/assets/e639029c-bf8c-4445-95cc-e70e23f470a4)
+
+
 ### API Endpoints
 
 - **`POST /auth/register`**: Register a new user with email, username, and password.
