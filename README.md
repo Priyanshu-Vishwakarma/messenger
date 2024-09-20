@@ -1,5 +1,5 @@
 **Name** : Priyanshu  Vishwakarma
-**Institute**: Indian Institute of Technology, (BHU) Varanasi
+**Institute**: IIT, (BHU) Varanasi
 
 
 
