@@ -1,6 +1,8 @@
 **Name** : Priyanshu  Vishwakarma
+
 **Institute**: IIT, (BHU) Varanasi
 
+**Department**:  Pharmaceutical Engineering & Technology.
 
 
 ![alt text](image.png)
