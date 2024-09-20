@@ -21,10 +21,10 @@ The schema design of my database is
 
 ### API Endpoints
 
-- **`POST /auth/register`**: Register a new user with email, username, and password.
-- **`POST /auth/login`**: Log in an existing user and receive a JWT token for authentication.
-- **`GET /auth/users`**: Retrieve a list of all users except the authenticated one (JWT required).
+-- **`POST /auth/register`**: Create a new user account using email, username, and password.
+- **`POST /auth/login`**: Authenticate an existing user and return a JWT token for session management.
+- **`GET /auth/users`**: Get a list of all users, excluding the one currently authenticated (JWT required).
 - **`POST /messages`**: Send a message from the authenticated user to another user (JWT required).
-- **`GET /messages/{otherUserId}`**: Fetch the message history between the authenticated user and another user (JWT required).
+- **`GET /messages/{otherUserId}`**: Retrieve the conversation history between the authenticated user and a specified user (JWT required).
 
 For the Frontend I have used `react` with `vite` and for routing i have used `react-router-dom`, the frontend code is made with `@shadcn/ui` components and is available in the `client` folder.
