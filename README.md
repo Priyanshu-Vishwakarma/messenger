@@ -14,7 +14,7 @@ Register page
  ![image](https://github.com/user-attachments/assets/31e8a58a-feef-4848-96d3-43a8c649f585)
 Sign In Page
 
-![image](https://github.com/user-attachments/assets/777ec5f2-a290-4755-8a42-458ef7a2c090)
+![image](https://github.com/user-attachments/assets/d0addeeb-027b-4efc-a9c2-3e46711b380a)
 Chats Page
 
 The schema design of my database is 
