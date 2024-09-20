@@ -1,6 +1,6 @@
-**Name** : Nikhil Raj
-**University/college**: Indian Institute of Technology, (BHU) Varanasi
-**Department** : Pharmaceutical Engineering and Technology (PHE)
+**Name** : Priyanshu  Vishwakarma
+**Institute**: Indian Institute of Technology, (BHU) Varanasi
+
 
 
 ![alt text](image.png)
